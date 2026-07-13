@@ -32,15 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a GIS professional and business systems analyst with over 18 years of experience supporting local government through geospatial analysis, application development, and enterprise technology solutions. I specialize in solving complex business and GIS challenges by improving workflows, integrating spatial data with business systems, and developing web- and database-driven applications using ArcGIS, Python, SQL Server, JavaScript, C#, and modern web technologies. My experience spans asset management, cadastral mapping, stormwater and transportation GIS, business process analysis, and enterprise GIS administration, with a strong focus on delivering practical, user-centered solutions. I am currently seeking a GIS, Business Analyst, or Web Development opportunity in the Sparta, Tennessee area where I can leverage my technical expertise and collaborative approach to help organizations improve their operations and decision-making.
 
 </div>
 
