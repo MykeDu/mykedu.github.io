@@ -68,7 +68,7 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]
     - icon: material/email
-      link: mailto:[YOUR-EMAIL-ADDRESS]
+      link: mailto:mike.dumais@live.com
 
 
 plugins:

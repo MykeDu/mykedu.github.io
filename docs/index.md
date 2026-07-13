@@ -19,7 +19,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.jpg" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.jpg" alt="Mike Dumais" class="profile-photo">
   <h1>Mike Dumais</h1>
   <p><strong>GIS Analyst</strong></p>
   <p><em>Transforming spatial data into insights | GIS | Remote Sensing | Python</em></p>
