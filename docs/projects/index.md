@@ -19,7 +19,10 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/p01.jpg)
+<!-- ![](../assets/images/p01_top.png) -->
+<p align="center">
+  <img src="../assets/images/p01_top.png" alt="System diagram" width="700" style="object-fit: fill;">
+</p>
 
 **[GIS-4043](GIS-4043.md)**
 
@@ -27,7 +30,7 @@ This map involved some spatial analysis where I examined locations, attributes, 
 
 `[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](GIS-4043.md){ .md-button }
 </div>
 
 
