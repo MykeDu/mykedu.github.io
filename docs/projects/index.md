@@ -103,6 +103,19 @@ This map involved some spatial analysis where I examined locations, attributes, 
 </div>
 
 <div class="project-card" markdown>
+  ![](../assets/images/placeholder-project.png)
+
+  **[Sample Project](sample-project.md)**
+
+  [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
+  and what you found or built.]
+
+  `[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+
+  [View Project →](sample-project.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
   ![](../assets/images/placeholder-notebook.png)
 
   **[Sample Notebook](sample-notebook.ipynb)**
