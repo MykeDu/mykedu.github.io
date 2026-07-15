@@ -53,7 +53,7 @@ This map involved some spatial analysis where I examined locations, attributes, 
 <div class="project-card" markdown>
   ![](../assets/images/placeholder-project.png)
 
-  **[Project 3](p3.md)**
+  **[GIS-4102](p3.md)**
 
   [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
   and what you found or built.]
@@ -66,7 +66,7 @@ This map involved some spatial analysis where I examined locations, attributes, 
 <div class="project-card" markdown>
   ![](../assets/images/placeholder-project.png)
 
-  **[Project 4](p4.md)**
+  **[GIS-4035](p4.md)**
 
   [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
   and what you found or built.]
@@ -79,7 +79,7 @@ This map involved some spatial analysis where I examined locations, attributes, 
 <div class="project-card" markdown>
   ![](../assets/images/placeholder-project.png)
 
-  **[Project 5](p5.md)**
+  **[GIS*4920](p5.md)**
 
   [YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
   and what you found or built.]
