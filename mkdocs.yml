@@ -82,6 +82,9 @@ nav:
     - "All Projects": projects/index.md
     - "GIS4043": projects/GIS-4043.md
     - "GIS3015": projects/GIS-3015.md
+    - "Project3": projects/p3.md
+    - "Project4": projects/p4.md
+    - "Project5": projects/p5.md
     - "Sample Project": projects/sample-project.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
